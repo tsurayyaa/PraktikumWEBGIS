@@ -1,0 +1,2 @@
+# PraktikumWEBGIS
+Repository untuk praktikum
